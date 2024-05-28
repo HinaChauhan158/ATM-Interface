@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ATM Interface with Java Swing
 
 This project implements a basic ATM (Automated Teller Machine) interface using Java Swing. It simulates the functionalities of a real ATM, allowing users to perform common banking operations such as:
@@ -47,3 +48,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Special thanks to [Name], [Name], and [Name] for their valuable contributions to this project.
 
+=======
+Developed a user-friendly ATM interface using Java Swing, providing a graphical user interface for seamless user interactions.
+Implemented core functionalities including account balance inquiries, cash withdrawals, deposits, and transaction history.
+>>>>>>> 534cc49 (Initial commit)
